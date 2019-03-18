@@ -13,5 +13,19 @@
     "express": "^4.16.4",
     "morgan": "^1.9.1",
     "uuid": "^3.3.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beccaww/blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beccaww/blog/issues"
+  },
+  "homepage": "https://github.com/beccaww/blog#readme"
 }
